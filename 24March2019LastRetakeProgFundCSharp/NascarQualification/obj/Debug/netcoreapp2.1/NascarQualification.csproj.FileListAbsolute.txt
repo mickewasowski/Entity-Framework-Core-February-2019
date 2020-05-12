@@ -1,0 +1,11 @@
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\bin\Debug\netcoreapp2.1\NascarQualification.deps.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\bin\Debug\netcoreapp2.1\NascarQualification.runtimeconfig.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\bin\Debug\netcoreapp2.1\NascarQualification.runtimeconfig.dev.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\bin\Debug\netcoreapp2.1\NascarQualification.dll
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\bin\Debug\netcoreapp2.1\NascarQualification.pdb
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\obj\Debug\netcoreapp2.1\NascarQualification.csproj.CoreCompileInputs.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\obj\Debug\netcoreapp2.1\NascarQualification.AssemblyInfoInputs.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\obj\Debug\netcoreapp2.1\NascarQualification.AssemblyInfo.cs
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\obj\Debug\netcoreapp2.1\NascarQualification.dll
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\obj\Debug\netcoreapp2.1\NascarQualification.pdb
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\NascarQualification\obj\Debug\netcoreapp2.1\NascarQualification.csprojAssemblyReference.cache

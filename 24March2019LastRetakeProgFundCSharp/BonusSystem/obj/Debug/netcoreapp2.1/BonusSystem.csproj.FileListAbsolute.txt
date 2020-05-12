@@ -1,0 +1,11 @@
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\bin\Debug\netcoreapp2.1\BonusSystem.deps.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\bin\Debug\netcoreapp2.1\BonusSystem.runtimeconfig.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\bin\Debug\netcoreapp2.1\BonusSystem.runtimeconfig.dev.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\bin\Debug\netcoreapp2.1\BonusSystem.dll
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\bin\Debug\netcoreapp2.1\BonusSystem.pdb
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\obj\Debug\netcoreapp2.1\BonusSystem.csprojAssemblyReference.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\obj\Debug\netcoreapp2.1\BonusSystem.csproj.CoreCompileInputs.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\obj\Debug\netcoreapp2.1\BonusSystem.AssemblyInfoInputs.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\obj\Debug\netcoreapp2.1\BonusSystem.AssemblyInfo.cs
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\obj\Debug\netcoreapp2.1\BonusSystem.dll
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\BonusSystem\obj\Debug\netcoreapp2.1\BonusSystem.pdb

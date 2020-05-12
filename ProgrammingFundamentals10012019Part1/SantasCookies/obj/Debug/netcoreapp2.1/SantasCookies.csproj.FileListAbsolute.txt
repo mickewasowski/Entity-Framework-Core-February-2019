@@ -1,0 +1,11 @@
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\bin\Debug\netcoreapp2.1\SantasCookies.deps.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\bin\Debug\netcoreapp2.1\SantasCookies.runtimeconfig.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\bin\Debug\netcoreapp2.1\SantasCookies.runtimeconfig.dev.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\bin\Debug\netcoreapp2.1\SantasCookies.dll
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\bin\Debug\netcoreapp2.1\SantasCookies.pdb
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\obj\Debug\netcoreapp2.1\SantasCookies.csprojAssemblyReference.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\obj\Debug\netcoreapp2.1\SantasCookies.csproj.CoreCompileInputs.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\obj\Debug\netcoreapp2.1\SantasCookies.AssemblyInfoInputs.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\obj\Debug\netcoreapp2.1\SantasCookies.AssemblyInfo.cs
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\obj\Debug\netcoreapp2.1\SantasCookies.dll
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasCookies\obj\Debug\netcoreapp2.1\SantasCookies.pdb

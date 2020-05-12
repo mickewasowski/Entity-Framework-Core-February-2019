@@ -1,0 +1,11 @@
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.deps.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.runtimeconfig.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.runtimeconfig.dev.json
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.dll
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\bin\Debug\netcoreapp2.1\EmojiSumator.pdb
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.csprojAssemblyReference.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.csproj.CoreCompileInputs.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.AssemblyInfoInputs.cache
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.AssemblyInfo.cs
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.dll
+C:\MVSProjects\24March2019LastRetakeProgFundCSharp\EmojiSumator\obj\Debug\netcoreapp2.1\EmojiSumator.pdb

@@ -1,0 +1,11 @@
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\bin\Debug\netcoreapp2.1\SantasNewList.deps.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\bin\Debug\netcoreapp2.1\SantasNewList.dll
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\bin\Debug\netcoreapp2.1\SantasNewList.pdb
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\obj\Debug\netcoreapp2.1\SantasNewList.csprojAssemblyReference.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\obj\Debug\netcoreapp2.1\SantasNewList.csproj.CoreCompileInputs.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\obj\Debug\netcoreapp2.1\SantasNewList.AssemblyInfoInputs.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\obj\Debug\netcoreapp2.1\SantasNewList.AssemblyInfo.cs
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\obj\Debug\netcoreapp2.1\SantasNewList.dll
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\obj\Debug\netcoreapp2.1\SantasNewList.pdb
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\bin\Debug\netcoreapp2.1\SantasNewList.runtimeconfig.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasNewList\bin\Debug\netcoreapp2.1\SantasNewList.runtimeconfig.dev.json

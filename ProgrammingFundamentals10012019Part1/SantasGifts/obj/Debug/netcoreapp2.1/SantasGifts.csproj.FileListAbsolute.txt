@@ -1,0 +1,11 @@
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\bin\Debug\netcoreapp2.1\SantasGifts.deps.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\bin\Debug\netcoreapp2.1\SantasGifts.runtimeconfig.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\bin\Debug\netcoreapp2.1\SantasGifts.runtimeconfig.dev.json
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\bin\Debug\netcoreapp2.1\SantasGifts.dll
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\bin\Debug\netcoreapp2.1\SantasGifts.pdb
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\obj\Debug\netcoreapp2.1\SantasGifts.csprojAssemblyReference.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\obj\Debug\netcoreapp2.1\SantasGifts.csproj.CoreCompileInputs.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\obj\Debug\netcoreapp2.1\SantasGifts.AssemblyInfoInputs.cache
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\obj\Debug\netcoreapp2.1\SantasGifts.AssemblyInfo.cs
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\obj\Debug\netcoreapp2.1\SantasGifts.dll
+C:\MVSProjects\ProgrammingFundamentals10012019Part1\SantasGifts\obj\Debug\netcoreapp2.1\SantasGifts.pdb
